@@ -70,10 +70,8 @@ Desenvolvido como parte do projeto **Instrumentos Digitais para o Carnaval de Ru
 
 | Arquivo |
 |---|
-| Bombo - Aro.wav |
 | Bombo - Pele Frente.wav |
 | Bombo - Pele Resposta.wav |
-| Bombo - Virada.wav |
 
 ### Ian (Engome Grave)
 
@@ -82,12 +80,8 @@ Desenvolvido como parte do projeto **Instrumentos Digitais para o Carnaval de Ru
 
 | Arquivo |
 |---|
-| Engome Ian - Agudo Chicote.wav |
 | Engome Ian - Agudo Medio.wav |
 | Engome Ian - Grave Borda.wav |
-| Engome Ian - Efeito Rufo.wav |
-| Engome Ian - Molho 1.wav |
-| Engome Ian - Molho 2.wav |
 
 ### Melê Ancó (Engome Médio)
 
@@ -96,12 +90,8 @@ Desenvolvido como parte do projeto **Instrumentos Digitais para o Carnaval de Ru
 
 | Arquivo |
 |---|
-| Engome Mele Anco - Agudo Chicote.wav |
 | Engome Mele Anco - Agudo Medio.wav |
 | Engome Mele Anco - Grave Borda.wav |
-| Engome Mele Anco - Efeito Rufo.wav |
-| Engome Mele Anco - Molho 1.wav |
-| Engome Mele Anco - Molho 2.wav |
 
 ### Melê (Engome Agudo)
 
@@ -110,12 +100,8 @@ Desenvolvido como parte do projeto **Instrumentos Digitais para o Carnaval de Ru
 
 | Arquivo |
 |---|
-| Engome Mele - Agudo Chicote.wav |
 | Engome Mele - Agudo Meio.wav |
 | Engome Mele - Grave Borda.wav |
-| Engome Mele - Efeito Rufo.wav |
-| Engome Mele - Molho 1.wav |
-| Engome Mele - Molho 2.wav |
 
 ### Congas
 
@@ -124,18 +110,8 @@ Desenvolvido como parte do projeto **Instrumentos Digitais para o Carnaval de Ru
 
 | Arquivo |
 |---|
-| Conga Aguda - Chicote.wav |
-| Conga Aguda - Grave Borda.wav |
 | Conga Aguda - Grave Meio.wav |
-| Conga Aguda - Tapa.wav |
-| Conga Aguda - Efeitos 1.wav |
-| Conga Aguda - Efeitos 2.wav |
-| Conga Grave - Chicote.wav |
-| Conga Grave - Grave na Borda.wav |
 | Conga Grave - Grave no Meio.wav |
-| Conga Grave - Tapas.wav |
-| Conga Grave - Efeitos 1.wav |
-| Conga Grave - Efeitos 2.wav |
 
 ### Agbê
 
@@ -144,11 +120,7 @@ Desenvolvido como parte do projeto **Instrumentos Digitais para o Carnaval de Ru
 
 | Arquivo |
 |---|
-| Agbe - Sacudida para Cima.wav |
-| Agbe - Sacudida para Baixo.wav |
-| Agbe - Loop Coco Lento 150bpm.wav |
 | Agbe - Loop Coco Medio 180bpm.wav |
-| Agbe - Loop Coco Rapido 210bpm.wav |
 
 ### Ganzá
 
@@ -157,11 +129,7 @@ Desenvolvido como parte do projeto **Instrumentos Digitais para o Carnaval de Ru
 
 | Arquivo |
 |---|
-| Ganza - Sacudida para Frente.wav |
-| Ganza - Sacudida para Lado.wav |
-| Ganza - Loop Coco Lento 150bpm.wav |
 | Ganza - Loop Coco Medio 180bpm.wav |
-| Ganza - Loop Coco Rapido 210bpm.wav |
 
 ### Gan (Gonguê, Cowbell)
 
@@ -171,11 +139,7 @@ Desenvolvido como parte do projeto **Instrumentos Digitais para o Carnaval de Ru
 | Arquivo |
 |---|
 | Gongue-Gan-Cowbell - Agudo Aberto.wav |
-| Gongue-Gan-Cowbell - Agudo Fechado.wav |
 | Gongue-Gan-Cowbell - Grave Aberto.wav |
-| Gongue-Gan-Cowbell - Grave Fechado.wav |
-| Gongue-Gan-Cowbell - Efeito 1.wav |
-| Gongue-Gan-Cowbell - Efeito 2.wav |
 
 ---
 

@@ -12,17 +12,7 @@ Desenvolvido como parte do projeto **Instrumentos Digitais para o Carnaval de Ru
 
 ## Download
 
-| | |
-|---|---|
-| **Pack Completo** | [⬇ Sample-Pack-Bongarbit-Completo.zip](https://github.com/bongarbit/sample-pack-bongarbit/releases/download/v1.0/Sample-Pack-Bongarbit-Completo.zip) |
-| Bombo (Alfaia) | [⬇ Bombo-Alfaia.zip](https://github.com/bongarbit/sample-pack-bongarbit/releases/download/v1.0/Bombo-Alfaia.zip) |
-| Ian (Engome Grave) | [⬇ Ian.zip](https://github.com/bongarbit/sample-pack-bongarbit/releases/download/v1.0/Ian.zip) |
-| Melê Ancó (Engome Médio) | [⬇ Mele-Anco.zip](https://github.com/bongarbit/sample-pack-bongarbit/releases/download/v1.0/Mele-Anco.zip) |
-| Melê (Engome Agudo) | [⬇ Mele.zip](https://github.com/bongarbit/sample-pack-bongarbit/releases/download/v1.0/Mele.zip) |
-| Congas | [⬇ Congas.zip](https://github.com/bongarbit/sample-pack-bongarbit/releases/download/v1.0/Congas.zip) |
-| Agbê | [⬇ Agbe.zip](https://github.com/bongarbit/sample-pack-bongarbit/releases/download/v1.0/Agbe.zip) |
-| Ganzá | [⬇ Ganza.zip](https://github.com/bongarbit/sample-pack-bongarbit/releases/download/v1.0/Ganza.zip) |
-| Gan (Gonguê, Cowbell) | [⬇ Gan-Cowbell.zip](https://github.com/bongarbit/sample-pack-bongarbit/releases/download/v1.0/Gan-Cowbell.zip) |
+[⬇ Baixar Sample Pack Bongarbit](https://github.com/bongarbit/sample-pack-bongarbit/releases/download/v1.0/Sample-Pack-Bongarbit.zip)
 
 ---
 

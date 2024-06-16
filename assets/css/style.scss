@@ -29,3 +29,16 @@ tr:nth-child(even) {
 footer {
   display: none;
 }
+
+#header {
+  min-height: 130px;
+  padding: 20px 0;
+}
+
+#header nav ul li.fork a {
+  margin-right: 40px;
+}
+
+#header #title {
+  margin-top: 12px;
+}
